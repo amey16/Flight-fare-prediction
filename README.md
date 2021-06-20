@@ -7,6 +7,7 @@ Project to predict the flight fare with deployment
   * [Overview](#overview)
   * [Installation](#installation)
   * [Deployement on Heroku](#deployement-on-heroku)
+  * [Directory Tree](#directory-tree)
   * [Dataset](#dataset)
   * [Future scope of project](#future-scope)
 
